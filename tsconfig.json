@@ -110,6 +110,7 @@
   ],
   "include": [
     "src/main.ts",
-    "src/classDemo.ts"
+    "src/classDemo.ts",
+    "src/interfaceDemo.ts"
   ]
 }
