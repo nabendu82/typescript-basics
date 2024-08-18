@@ -109,8 +109,6 @@
     "node_modules"
   ],
   "include": [
-    "src/main.ts",
-    "src/classDemo.ts",
-    "src/interfaceDemo.ts"
+    "src/genericsDemo.ts"
   ]
 }
